@@ -4,11 +4,11 @@ Chopper is full-stack note-taking application built using **Typescript** for a r
 
 ## Features
 
-- **User-Friendly Interface**: Yagami offers an intuitive and user-friendly interface, making it easy to create, manage, and organize your notes.
+- **User-Friendly Interface**: Chopper notes offers an intuitive and user-friendly interface, making it easy to create, manage, and organize your notes.
 
 - **Secure Authentication**: Your data is protected with secure user authentication, so your notes remain private and accessible only to you.
 
-- **Responsive Design**: Yagami is built with a responsive design, ensuring a seamless experience on both desktop and mobile devices.
+- **Responsive Design**: Chopper notes is built with a responsive design, ensuring a seamless experience on both desktop and mobile devices.
 
 ## Demo
 
@@ -20,7 +20,7 @@ Check out the Chopper app in action by watching this demo: 👇
 
 ## Getting Started
 
-To run Yagami on your local machine, follow these steps:
+To run Chopper notes on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
 
